@@ -1,4 +1,3 @@
-# ofxAutomatedCaptions
-A small solution which uses CMU Pocketsphinx & OpenFrameworks which results in automated transcribing of .raw audio files.
+I wanted to make an openFrameworks app which used Pocketsphinx to do some automatic transcribing of audio files and provide output. In this tutorial I’ll explain how I managed it.
 
-Currently only outputs XML, another repo will show how to use the XML output to build automated captioned videos.
+http://benjgorman.com/openframeworks-pocketsphinx/
